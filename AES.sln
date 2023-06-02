@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AES.Client", "AES.Client\AES.Client.csproj", "{95992AC9-3CD6-423B-8793-1A4F55C6DD3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AES.DAL", "AES.DAL\AES.DAL.csproj", "{A3272824-3A40-47B3-AE43-4F6CAD58DC16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95992AC9-3CD6-423B-8793-1A4F55C6DD3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95992AC9-3CD6-423B-8793-1A4F55C6DD3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95992AC9-3CD6-423B-8793-1A4F55C6DD3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95992AC9-3CD6-423B-8793-1A4F55C6DD3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3272824-3A40-47B3-AE43-4F6CAD58DC16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3272824-3A40-47B3-AE43-4F6CAD58DC16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3272824-3A40-47B3-AE43-4F6CAD58DC16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3272824-3A40-47B3-AE43-4F6CAD58DC16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

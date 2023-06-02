@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hYpFFnAH6m0QU5nGxOEhboi/e8rs5Mi64NedCNmqGp0=",
+  "Source": "AES.Client",
+  "BasePath": "_content/AES.Client",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
